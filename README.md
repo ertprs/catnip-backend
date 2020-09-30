@@ -1,2 +1,7 @@
-# catnip-backend
-Backend da aplicação Catnip
+# Backend da aplicação
+
+- Realiza os cadastro de Usuário, Cliente, Produto e Pedidos
+
+- Controles de autenticação por rota
+
+- Usando banco de dados SQLite
