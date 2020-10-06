@@ -9,3 +9,5 @@
 ### Adições futuras
 
 - Receber imagens do frontend e armazenar
+
+- Criação das novas rotas (cidades, estados, etc)
