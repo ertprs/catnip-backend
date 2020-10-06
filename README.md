@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img width="200px" alt="Catnip" title="Catnip" src=".github/logo.jpg" />
+    <img width="200px" alt="Catnip" title="Catnip" src=".github/logo.jpg"/>
 </h1>
 
 <p align="center">
